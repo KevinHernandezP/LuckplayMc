@@ -9,12 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckplaymc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kevin-hernández-0432591b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin hernández" height="30" width="40" /></a>
-<a href="https://fb.com/luckplaytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luckplaytv" height="30" width="40" /></a>
-<a href="https://instagram.com/luckplaymc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckplaymc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luckplaytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luckplaytv" height="30" width="40" /></a>
-</p>
+
 
 
 
